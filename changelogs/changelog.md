@@ -96,3 +96,14 @@
  - Optimised Animations
  
 I KNOW MOST OF YOU ARE EXCITED ABOUT OTA UPDATES, BUT DUE TO SOME UNWANTED SITUATION WE ARE UNABLE TO DELIVER THIS WITH FEBRUARY PATCH BUT WE WILL MAKE SURE YOU GET FREQUENT UPDATES FROM OTA SOON .
+
+ # V2.4.1 (13.2.2021) Age of OTA
+  
+ - OTA Updates are finally here!
+ - Long Screenshot
+ - Switch Styles
+ - Refreshed Quick Settings, Inspired from OxygenOS
+ - Face Unlock Animation
+ - Now Blur will also show on Lockscreen
+
+THIS IS NOT A MAJOR UPDATE BUT JUST A SMALL UPDATE WITH OTA UPDATES AND SOME MORE FEATURES
